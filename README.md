@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Shayan</h1>
-<h3 align="center">I am a teenage developer original from Pakistan, now setelled in Canada!</h3>
+<h3 align="center">I am a teenage developer original from Pakistan, now settled in Canada!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan-mazahir&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-mazahir" /> </p>
 
