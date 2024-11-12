@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayan-mazahir" alt="shayan-mazahir" /></a> </p>
 
-- 🔭 I’m currently working on [Learning Java](https://github.com/Shayan-Mazahir/Java-Learning)
+- 🔭 I’m currently working on [Learning Java](https://github.com/Shayan-Mazahir/Java-Learning) and [LASS Programming Hub](https://github.com/Louise-Arbor-SS-Programming-Hub/Back-end)
 
 - 📫 How to reach me **Discord: mr.raza**
 
