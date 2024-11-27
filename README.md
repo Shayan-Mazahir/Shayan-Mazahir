@@ -22,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-mazahir&show_icons=true&locale=en" alt="shayan-mazahir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-mazahir&" alt="shayan-mazahir" /></p>
+
 
