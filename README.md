@@ -1,26 +1,24 @@
-<h1 align="center">Hey there! 👋, I'm Shayan</h1>
-<h3 align="center">I am a teenage developer originally from Pakistan, now settled in Canada!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan-mazahir&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-mazahir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayan-mazahir" alt="shayan-mazahir" /></a> </p>
-
-- 🔭 I’m currently working on [Learning Java](https://github.com/Shayan-Mazahir/Java-Learning) and [LASS Programming Hub](https://github.com/Louise-Arbor-SS-Programming-Hub/Back-end)
-
-- 📫 How to reach me **Discord: mr.raza**
-
-- ⚡ Fun fact **I am funny, sort of**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan-mazahir&show_icons=true&locale=en&layout=compact" alt="shayan-mazahir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-mazahir&show_icons=true&locale=en" alt="shayan-mazahir" /></p>
+# 💫 About Me:
+- 🔭 I’m currently working on [Learning Java](https://github.com/Shayan-Mazahir/Java-Learning) and [LASS Programming Hub](https://github.com/Louise-Arbor-SS-Programming-Hub/Back-end)<br><br><br> - 📫 How to reach me **Discord: mr.raza**<br><br><br> - ⚡ Fun fact **I am funny, sort of**<br>
 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shayan-Mazahir&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shayan-Mazahir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-Mazahir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shayan-Mazahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shayan-Mazahir&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shayan-Mazahir&icon=10&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
