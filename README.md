@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Learning Java](https://github.com/Shayan-Mazahir/Java-Learning) and [LASS Programming Hub](https://github.com/Louise-Arbor-SS-Programming-Hub/Back-end)<br><br><br> - 📫 How to reach me **Discord: mr.raza**<br><br><br> - ⚡ Fun fact **I am funny, sort of**<br>
+- 🔭 I’m currently working on [Learning Java](https://github.com/Shayan-Mazahir/Java-Learning) and [LASS Programming Hub](https://github.com/Louise-Arbor-SS-Programming-Hub/Back-end)<br><br><br>
+- 📫 How to reach me **Discord: mr.raza**<br><br><br>
+- ⚡ Fun fact **I am funny, sort of**<br>
 
 
 # 💻 Tech Stack:
