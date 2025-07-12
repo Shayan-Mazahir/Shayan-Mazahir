@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [PAC-MAN](https://github.com/Shayan-Mazahir/PAC-MAN) and [LASS Programming Hub](https://github.com/Louise-Arbor-SS-Programming-Hub/Back-end)<br>
+- 🔭 I’m currently working on [Learning-Rust](https://github.com/Shayan-Mazahir/Learning-Rust) and [
+Learning-Cyber-Security](https://github.com/Shayan-Mazahir/Learning-Cyber-Security)<br>
 - 📫 How to reach me **Discord: mr.raza**<br>
 - ⚡ Fun fact **I am funny, sort of**<br>
 
