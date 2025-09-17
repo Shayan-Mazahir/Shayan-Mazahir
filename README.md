@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Learning-Rust](https://github.com/Shayan-Mazahir/Learning-Rust) and [
-Learning-Cyber-Security](https://github.com/Shayan-Mazahir/Learning-Cyber-Security)<br>
+- 🔭 I’m currently working on [Learning-Rust](https://github.com/Shayan-Mazahir/Learning-Rust)<br>
 - 📫 How to reach me **Discord: mr.raza**<br>
 - ⚡ Fun fact **I am funny, sort of**<br>
 
