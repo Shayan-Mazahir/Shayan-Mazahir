@@ -1,26 +1,31 @@
-# 💫 About Me:
-- 🔭 I’m currently working on [Learning-Rust](https://github.com/Shayan-Mazahir/Learning-Rust)<br>
-- 📫 How to reach me **Discord: mr.raza**<br>
-- ⚡ Fun fact **I am funny, sort of**<br>
+# Hey, I'm Shayan 👋
 
+First-year student at the University of Waterloo with 6+ years of hands-on programming experience. I build things that solve real problems—from Discord bots serving 5,000+ users to robotics systems that win competitions.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shayan-Mazahir&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shayan-Mazahir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-Mazahir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🛠️ What I Work With
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shayan-Mazahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Languages:** Python, Java, JavaScript
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Technologies:** Flask, Django, Discord.js, MongoDB, NodeJS, VEX Robotics, Arduino
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shayan-Mazahir&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Currently Learning:** Rust (check out my [learning repo](https://github.com/Shayan-Mazahir/Learning-Rust))
+
+## 🚀 Featured Projects
+
+### [Pac-Man Clone](https://github.com/Shayan-Mazahir/pacman-repo-name)
+A functional Pac-Man replica with collision detection, AI-driven ghosts, and modular architecture built with Processing and Java.
+
+### School Club Directory (Backend)
+Flask-based backend with Google API integration, SSL/HTTPS implementation, and full authentication system for my high school's club directory platform.
+
+### Discord Bot Suite
+Custom moderation and utility bots deployed across 15+ servers with 5,000+ total users. Built with Discord.js and Discord.py with MongoDB for persistent storage.
+
+## 📫 Get in Touch
+
+- **Email:** syed.shayan.mazahir@gmail.com
+- **Discord:** mr.raza
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shayan-Mazahir&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Check out my pinned repositories below to see what I've been building* ⬇️
