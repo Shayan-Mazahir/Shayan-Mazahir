@@ -12,7 +12,7 @@ First-year student at the University of Waterloo with 6+ years of hands-on progr
 
 ## 🚀 Featured Projects
 
-### [Pac-Man Clone](https://github.com/Shayan-Mazahir/pacman-repo-name)
+### [Pac-Man Clone](https://github.com/Shayan-Mazahir/PAC-MAN)
 A functional Pac-Man replica with collision detection, AI-driven ghosts, and modular architecture built with Processing and Java.
 
 ### School Club Directory (Backend)
