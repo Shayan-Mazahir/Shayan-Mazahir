@@ -18,7 +18,7 @@ A functional Pac-Man replica with collision detection, AI-driven ghosts, and mod
 ### [School Club Directory (Backend)](https://github.com/Louise-Arbor-SS-Programming-Hub/Back-end)
 Flask-based backend with Google API integration, SSL/HTTPS implementation, and full authentication system for my high school's club directory platform.
 
-### Discord Bot Suite *Currently preparing for public release*
+### Discord Bot Suite (*Currently preparing for public release*)
 Custom moderation and utility bots deployed across 15+ servers with 5,000+ total users. Built with Discord.js and Discord.py with MongoDB for persistent storage.
 
 ## 📫 Get in Touch
