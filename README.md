@@ -1,6 +1,6 @@
 # Hey, I'm Shayan 👋
 
-First-year student at the University of Waterloo with 6+ years of hands-on programming experience. I build things that solve real problems—from Discord bots serving 5,000+ users to robotics systems that win competitions.
+First-year student at the University of Waterloo with 6+ years of hands-on programming experience. I build things that solve real problems; from Discord bots serving 5,000+ users to robotics systems that win competitions.
 
 ## 🛠️ What I Work With
 
